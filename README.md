@@ -12,7 +12,7 @@
 </a>
 </p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherRusty&" alt="AnotherRusty" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherRusty&" alt="AnotherRusty" /></p> -->
 
 ## 🔗 Github Trophies
 <p align="center">
