@@ -14,7 +14,9 @@
 <br/>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherRusty&" alt="AnotherRusty" /></p> -->
 
+<!--
 ## 🔗 Github Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=AnotherRusty&theme=darkhub">
 </p>
+-->
