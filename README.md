@@ -1,6 +1,4 @@
-# <p align="center">✔ Full Stack and Web3 Engineer</p>
-![blockchain_banner](https://github.com/user-attachments/assets/85cf9855-5b4a-4705-a39a-de1aec00e40b)
-
+### <p align="center">✔ Full Stack and Web3 Engineer</p>
 ## 🔗 Github Analysis 
 ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnotherRusty&theme=radical&hide_border=true) <br/> <br/> 
 <p>
